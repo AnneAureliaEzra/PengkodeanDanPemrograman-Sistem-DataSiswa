@@ -1,8 +1,12 @@
-# WebCRUD
-silahkan di Lihat,Ambil,Modifikasi (LAM)
+# PengkodeanDanPemrograman-Sistem-DataSiswa
 
-TAMPILAN WEBSITE
-![gambar](https://user-images.githubusercontent.com/100106630/162618264-44bcdab9-7a52-4587-84d4-e4f3c4f0930a.png)
-![gambar](https://user-images.githubusercontent.com/100106630/162618268-0a9a58a8-3ebf-40ed-ab61-367999d0e839.png)
-![gambar](https://user-images.githubusercontent.com/100106630/162618296-f795d63d-b945-444d-87ee-e419efb3a075.png)
-![gambar](https://user-images.githubusercontent.com/100106630/162618348-9e8a5b09-c24c-4a51-83e5-567c1e829c94.png)
+Before
+![Screenshot (1)](https://github.com/AnneAureliaEzra/PengkodeanDanPemrograman-Sistem-DataSiswa/assets/167234031/3a09e128-e5ed-47f4-a076-62a573f44fee)
+![Screenshot (4)](https://github.com/AnneAureliaEzra/PengkodeanDanPemrograman-Sistem-DataSiswa/assets/167234031/54604418-01f5-4f18-8f3f-0cb7b89c8c89)
+
+after
+![Screenshot (5)](https://github.com/AnneAureliaEzra/PengkodeanDanPemrograman-Sistem-DataSiswa/assets/167234031/fba3f146-3378-4e86-b8b7-1b91be854109)
+![Screenshot (6)](https://github.com/AnneAureliaEzra/PengkodeanDanPemrograman-Sistem-DataSiswa/assets/167234031/62394bc7-a8d0-4d62-b48f-da345380f4b9)
+
+ ERD
+ 
